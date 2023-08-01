@@ -4,18 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "8cda498a9b2638c9",
+        "id": "fd03e9ba8f352ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c247c97089871f",
+            "id": "305f119adcc32f63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "PROJECT/letter.md"
+              }
+            }
+          },
+          {
+            "id": "7e35355bc3e64c4f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "PROJECT/letter.md"
               }
             }
           }
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PROJECT/letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PROJECT/letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PROJECT/letter.md"
               }
             }
           }
@@ -151,15 +159,23 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
   "active": "e509b7c07316764f",
   "lastOpenFiles": [
+    "ALGORITHM/algorithm.md",
+    "PROJECT/letter.md",
+    "未命名.canvas",
+    "2023-08-01.md",
+    "PROJECT",
     "README.md",
+    "algorithm.canvas",
+    "ALGORITHM",
+    "Drawing 2023-08-01 17.27.47.excalidraw.md",
     "2023-07-31.md",
     "日记/2023.07.31.md",
-    "日记",
-    "未命名.canvas"
+    "日记"
   ]
 }
