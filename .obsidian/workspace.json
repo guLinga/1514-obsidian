@@ -4,26 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fd03e9ba8f352ad2",
+        "id": "bdd5d60f6c8f54d3",
         "type": "tabs",
         "children": [
           {
-            "id": "305f119adcc32f63",
+            "id": "34b8fbd34251397b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "PROJECT/letter.md"
-              }
-            }
-          },
-          {
-            "id": "7e35355bc3e64c4f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "PROJECT/letter.md"
+                "file": "wanwu/to-do list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECT/letter.md",
+                "file": "wanwu/to-do list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECT/letter.md",
+                "file": "wanwu/to-do list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PROJECT/letter.md"
+                "file": "wanwu/to-do list.md"
               }
             }
           }
@@ -150,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,16 +156,21 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e509b7c07316764f",
+  "active": "34b8fbd34251397b",
   "lastOpenFiles": [
-    "ALGORITHM/algorithm.md",
-    "PROJECT/letter.md",
+    "project note/letter.md",
+    "README.md",
+    "git/git.md",
+    "wanwu/to-do list.md",
+    "git",
+    "wanwu internship summary",
+    "wanwu",
+    "algorithm/algorithm.md",
     "未命名.canvas",
     "2023-08-01.md",
-    "PROJECT",
-    "README.md",
+    "project note",
     "algorithm.canvas",
-    "ALGORITHM",
+    "algorithm",
     "Drawing 2023-08-01 17.27.47.excalidraw.md",
     "2023-07-31.md",
     "日记/2023.07.31.md",
