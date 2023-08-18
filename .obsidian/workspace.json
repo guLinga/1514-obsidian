@@ -11,11 +11,9 @@
             "id": "34b8fbd34251397b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "wanwu/to-do list.md",
-                "mode": "source",
-                "source": false
+                "file": "project note/letter.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wanwu/to-do list.md",
+                "file": "project note/letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wanwu/to-do list.md",
+                "file": "project note/letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wanwu/to-do list.md"
+                "file": "project note/letter.md"
               }
             }
           }
@@ -158,16 +156,16 @@
   },
   "active": "34b8fbd34251397b",
   "lastOpenFiles": [
+    "wanwu/to-do list.md",
     "project note/letter.md",
     "firm/firm.md",
-    "wanwu/to-do list.md",
+    "algorithm/algorithm.md",
     "firm",
     "README.md",
     "git/git.md",
     "git",
     "wanwu internship summary",
     "wanwu",
-    "algorithm/algorithm.md",
     "未命名.canvas",
     "2023-08-01.md",
     "project note",
